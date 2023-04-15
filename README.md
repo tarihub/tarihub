@@ -11,7 +11,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tarimoe&show_icons=true&count_private=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarimoe&layout=compact&hide=html,css,javascript" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarimoe&layout=compact&hide=html,css,javascript&count_private=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;">
 
 <!--
 **tarimoe/tarimoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
