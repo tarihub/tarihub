@@ -7,6 +7,9 @@
 
 [![tarimoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarimoe&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=tarimoe&show_icons=true&count_private=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+
 <!--
 **tarimoe/tarimoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
