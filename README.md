@@ -2,7 +2,7 @@
 
 I'm interested in cloud security && CTF and want to study PWN～
 
-Read more about [tari’s Blog](https://tari.moe)
+Read more in [tari’s Blog](https://tari.moe)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Go](https://img.shields.io/badge/-Golang-2496ED?style=flat-square&logo=Go&logoColor=ffffff)](https://go.dev/)
