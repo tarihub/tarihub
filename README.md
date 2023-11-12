@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
-云安全 || Cloud Security
-
-想学二进制的Web🐶
+I'm interested in cloud security && CTF and want to study PWN～
 
 - Read more about [tari’s Blog](https://tari.moe)
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![Golang](https://img.shields.io/badge/-Golang-2496ED?style=flat-square&logo=Go&logoColor=ffffff)](https://go.dev/)
+[![Go](https://img.shields.io/badge/-Golang-2496ED?style=flat-square&logo=Go&logoColor=ffffff)](https://go.dev/)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
