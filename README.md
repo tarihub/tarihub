@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm interested in cloud security && CTF and want to study PWN～
+Im Learning Pwn, Work in Cloud Computing and Cloud Native Security, SDLC, Interesting in CTF Web, Former Cybersecurity Operations & Maintenance ~
 
 Read more in [tari’s Blog](https://tari.moe)
 
