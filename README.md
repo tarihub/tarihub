@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Im Work in Cloud Computing and Cloud Native Security, SDLC, Interesting in CTF Web, Learning in Pwn, Former Cybersecurity Operations & Maintenance ~
+I'm work in Cloud Computing and Cloud Native Security, SDLC, Interesting in CTF Web, Learning in Pwn, Former Security Operations & Maintenance ~
 
 Read more in [tari’s Blog](https://tari.moe)
 
