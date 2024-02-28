@@ -11,12 +11,12 @@ Read more in [tari’s Blog](https://tari.moe)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=tarimoe&show_icons=true&count_private=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=tarihub&show_icons=true&count_private=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarimoe&layout=compact&hide=html,css,javascript&count_private=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarihub&layout=compact&hide=html,css,javascript&count_private=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;">
 
 <!--
-**tarimoe/tarimoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tarihub/tarihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
