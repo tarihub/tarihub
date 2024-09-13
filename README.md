@@ -1,6 +1,6 @@
 ### Hi 👋
 
-🔭 I'm work in Cloud Computing/Native Security and SDLC. Interesting in CTF Web. 🌱 Learning in Pwn. Former Security Operations & Maintenance ~
+🔭 I'm work in Cloud Security. Interesting in CTF Web/Cloud. 🌱 Learning in Pwn. Former SDLC & Security Operations & Maintenance ~
 
 Read more in [tari’s Blog](https://tari.moe)
 
